@@ -1,3 +1,7 @@
 # This is a generated file; do not edit or check into version control.
 flutter_plugin_android_lifecycle=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/
 google_maps_flutter=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.1.6/
+permission_handler=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-10.0.0/
+permission_handler_android=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_android-10.0.0/
+permission_handler_apple=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_apple-9.0.4/
+permission_handler_windows=/home/raul/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler_windows-0.1.0/
