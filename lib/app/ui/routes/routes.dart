@@ -3,8 +3,8 @@
 abstract class  Routes{
 
   static const SPLASH = '/';
-  static const Home = '/home';
-  static const PERMISSION = '/permissions';
+  static const HOME = '/home';
+  static const PERMISSIONS = '/permissions';
 
 
 }
